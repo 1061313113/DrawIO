@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="28.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="isfskjvw3P-LeUvP9Jja">
     <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="125" width="560" x="100" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="250" width="560" x="100" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-3" edge="1" parent="1" source="DOBBjnOJepuq8wi9gUsa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DOBBjnOJepuq8wi9gUsa-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="感知到变化" vertex="1">
+          <mxGeometry height="60" width="90" x="150" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据劫持" vertex="1">
+          <mxGeometry height="60" width="90" x="335" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-8" edge="1" parent="1" source="DOBBjnOJepuq8wi9gUsa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DOBBjnOJepuq8wi9gUsa-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="通知对方" vertex="1">
+          <mxGeometry height="60" width="90" x="150" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-10" edge="1" parent="1" source="DOBBjnOJepuq8wi9gUsa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DOBBjnOJepuq8wi9gUsa-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-12" edge="1" parent="1" source="DOBBjnOJepuq8wi9gUsa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DOBBjnOJepuq8wi9gUsa-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="对方是谁&lt;div&gt;有多少&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="335" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="依赖收集" vertex="1">
+          <mxGeometry height="60" width="90" x="500" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-14" edge="1" parent="1" source="DOBBjnOJepuq8wi9gUsa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DOBBjnOJepuq8wi9gUsa-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="通知" vertex="1">
+          <mxGeometry height="60" width="90" x="335" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-16" edge="1" parent="1" source="DOBBjnOJepuq8wi9gUsa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DOBBjnOJepuq8wi9gUsa-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更新" vertex="1">
+          <mxGeometry height="60" width="90" x="335" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="派发更新" vertex="1">
+          <mxGeometry height="60" width="90" x="500" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="dom diff" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指令" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="工具" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="DOBBjnOJepuq8wi9gUsa-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="基建" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="620" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
