@@ -133,6 +133,12 @@
         <mxCell id="r7rwHdZiS6Qo-r99IofR-22" value="template =&amp;gt; render" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="609" y="1195" width="120" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="r7rwHdZiS6Qo-r99IofR-24" value="vue\src\core\index.ts" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r7rwHdZiS6Qo-r99IofR-25" value="vue\src\core\vdom\create-element.ts" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="989" width="231" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
